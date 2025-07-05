@@ -1,1 +1,2 @@
 # ai-food-detector
+author
