@@ -1,1 +1,1 @@
-# ai-good-detector
+# ai-food-detector
